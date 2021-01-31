@@ -1,5 +1,6 @@
-## DataAnalysisProjects
-#### Monica Kim (MS in Marketing Science and Business Analytics, University of Pittsburgh)
+## Data Analysis Projects
+#### Monica Kim
+#### MS in Marketing Science and Business Analytics, Class of 2020 | University of Pittsburgh
 
 ### DataMining_Fall2020
 This final project was done for Data Mining course (Fall 2020) at the University of Pittsburgh, Katz Graduate School of Business.
